@@ -53,6 +53,11 @@ p {
 }
 
 .peace {
-  display: inline-block;
   margin: 1rem;
+}
+
+.soundcloud-player {
+	margin: 1rem;
+	width: 400px;
+	height: 500px;
 }
